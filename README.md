@@ -86,17 +86,6 @@ O script irá:
 - Gerar um arquivo `relatorio_YYYYMMDD_HHMM.txt` com o resumo
 - Gravar log detalhado em `execucao.log`
 
- Formato do relatório gerado
-
-```
-Total de linhas processadas: 42
-SID encontrados: 38
-NULL (não encontrados): 3
-  - Linha 5: responsável João Silva
-  - Linha 17: responsável Maria Souza
-  - Linha 31: responsável Carlos Lima
-Casos especiais (PID=SID): 1
-```
 
  Dependências
 
